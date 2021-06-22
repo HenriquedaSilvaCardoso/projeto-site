@@ -12,7 +12,7 @@ body
 main
 {
     background-color: white;
-    width: 600px;
-    margin: auto;
+    width: 500px;
+    margin: 2cm;
     box-shadow: 3px 3px 5px black;
 }
