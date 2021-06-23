@@ -7,7 +7,6 @@ body
 {
     background-color: rgb(225, 247, 33);
 
-    
 }
 
 main
@@ -17,4 +16,21 @@ main
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+h1
+{
+    font-size: 2em;
+    color: rgb(123, 28, 247)
+}
+
+h2 
+{
+    font-size: 1.5em;
+    color: rgb(123, 28, 247)
+}
+
+img.lado
+{
+    float: right
 }
